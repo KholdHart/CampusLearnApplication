@@ -13,6 +13,15 @@ namespace CampusLearnApplication.Models
         public string passwordHash { get; set; }
         public string role { get; set; }
 
+        public bool authenticate(string passwordHash)
+        {
+            //logic 
+        }
+
+        public void updatePassword(string newPassword)
+        {
+            //logic
+        }
 
     }
 }
