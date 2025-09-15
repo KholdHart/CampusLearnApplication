@@ -18,11 +18,14 @@ namespace CampusLearnApplication.Models
             //logic 
         }
 
-        public void reviewSubmission(int )
+        public void reviewSubmission(int Submission)
         {
             //logic
         }
 
         public void recieveReport()
+        {
+            //logic
+        }
     }
 }
