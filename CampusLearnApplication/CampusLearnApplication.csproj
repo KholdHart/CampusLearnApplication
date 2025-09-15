@@ -44,9 +44,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Models\Assessment.cs" />
+    <Compile Include="Models\Enrolloment.cs" />
     <Compile Include="Models\LearningMaterial.cs" />
     <Compile Include="Models\Login.cs" />
     <Compile Include="Models\Module.cs" />
+    <Compile Include="Models\Report.cs" />
+    <Compile Include="Models\Review.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Models\Submission.cs" />
     <Compile Include="Models\Topic.cs" />

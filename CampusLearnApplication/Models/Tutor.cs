@@ -13,12 +13,12 @@ namespace CampusLearnApplication.Models
         public string lastName { get; set; }
         public string specialization { get; set; }
 
-        public void assignModule(int courseID)
+        public void assignModule()
         {
             //logic 
         }
 
-        public void reviewSubmission(int Submission)
+        public void reviewSubmission()
         {
             //logic
         }
